@@ -1,13 +1,13 @@
 .navbar {
   background-color: #fff;
   height: 80px;
-  margin: 20px;
+  margin: 10px;
   border-radius: 40px;
   padding: 0.5rem;
 }
 .navbar-brand {
   font-weight: 500;
-  color: #009970;
+  color: #009970 !important;
   font-size: 24px;
   transition: 0.3s #009970;
 }
@@ -61,7 +61,7 @@
   }
 }
 .hero-section {
-  background: url(https://images.pexels.com/photos/6621224/pexels-photo-6621224.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+  background: url(https://images.pexels.com/photos/172067/pexels-photo-172067.jpeg)
     no-repeat center;
   background-size: cover;
   width: 100% !important;
